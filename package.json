@@ -1,0 +1,30 @@
+{
+  "name": "andriyudianto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-errors": "^1.8.0",
+    "ioredis": "^4.19.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andryudianto/andriyudianto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andryudianto/andriyudianto/issues"
+  },
+  "homepage": "https://github.com/andryudianto/andriyudianto#readme"
+}
